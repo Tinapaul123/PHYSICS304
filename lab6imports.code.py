@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+print("Tina's new upload")
 # ---- Pick underdamped parameters ----
 m = 0.10
 k = 1.0
